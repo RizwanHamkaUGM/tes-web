@@ -3,7 +3,7 @@ body {
     overflow-x: hidden;
     font-family: 'Georgia', serif;
     background: url('img/bg.png') repeat;
-}
+} 
 
 .navbar-container {
     display: flex;

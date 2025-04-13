@@ -2,7 +2,7 @@ body {
     margin: 0;
     overflow-x: hidden;
     font-family: 'Georgia', serif;
-    background: url('/img/pattern-bg.png') repeat;
+    background: url('img/bg.png') repeat;
 }
 
 .navbar-container {
